@@ -122,12 +122,12 @@ body {
   max-width: 50%;
   /* Limit the maximum width */
 }
-#info{
-
+#info{ 
+font-weight: bold;
 position: absolute;
 top: 97%;
-left: 45%;
-color: #e2e2e2;
+left: 35%;
+color: #c1c1c1;
 }
 #sp{
   height: 150px;
